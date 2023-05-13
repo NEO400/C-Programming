@@ -11,14 +11,14 @@ Exercise programs for the Metropolia UAS C - Programming Course.
 
 ## Contents Elements of a program (C):
 
-variables
-constants
-types
-expressions
-arrays
-control structures
-input and output
-sub programs and parameters.
+- variables
+- constants
+- types
+- expressions
+- arrays
+- control structures
+- input and output
+- sub programs and parameters.
 
 ## License
 
