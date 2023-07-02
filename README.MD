@@ -20,6 +20,3 @@ Exercise programs for the Metropolia UAS C - Programming Course.
 - input and output
 - sub programs and parameters.
 
-## License
-
-Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
